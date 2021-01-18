@@ -1,6 +1,6 @@
 # TankController-Housing
 
-The [Tank Controller](https://github.com/Open-Acidification/TankController) project utilizes a half-shield attached to an Arduino Mega. This repo holds the housing to hold all the components in a water tight container.
+The [Tank Controller](https://github.com/Open-Acidification/TankController) project utilizes a half-shield attached to an Arduino Mega. This repo holds the housing to hold all the components in a splash resistant container.
 
 ## Software Requirements
 
